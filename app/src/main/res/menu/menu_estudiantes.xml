@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_agregar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="1"
+        android:title="@string/menu_agregar"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_modificar"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="3"
+        android:title="@string/menu_mover"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/cambiar_idioma"
+        android:title="@string/menu_cambiar_idioma"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_buscar"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Buscar"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+</menu>

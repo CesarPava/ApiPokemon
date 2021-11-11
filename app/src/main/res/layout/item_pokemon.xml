@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:id="@+id/item_pokemon_layout">
+
+    <ImageView
+        android:id="@+id/img_poke"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="Image" />
+
+    <TextView
+        android:id="@+id/num_poke"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:textSize="23sp"
+        android:layout_marginTop="25dp"
+        android:layout_toEndOf="@id/img_poke"/>
+
+    <TextView
+        android:id="@+id/name_poke"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/num_poke"
+        android:textSize="23sp"
+        android:layout_alignStart="@id/num_poke"/>
+
+    <ImageView
+        android:id="@+id/img_type_poke"
+        android:layout_width="50dp"
+        android:layout_height="25dp"
+        android:layout_alignStart="@id/num_poke"
+        android:layout_below="@id/name_poke"
+        android:adjustViewBounds="true"
+        android:contentDescription="Image" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="#BEBEBE"/>
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.21145833333333333" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.36974358974358973" />
+        <entry key="../../Library/Android/sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.21041666666666667" />
+        <entry key="../../Library/Android/sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/cesar/Desktop/appsactualizado/app-android-eam-main/app/src/main/res/layout/item_pokemon.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3765625" />
+        <entry key="app/src/main/res/layout-large-port/activity_lista.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout-large/activity_lista.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/activity_crear_estudiante.xml" value="0.18885869565217392" />
+        <entry key="app/src/main/res/layout/activity_detalle.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/activity_lista.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_pantalla2.xml" value="0.3463541666666667" />
+        <entry key="app/src/main/res/layout/activity_pantalla3.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/constraint_layout_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_detalle.xml" value="0.1933876811594203" />
+        <entry key="app/src/main/res/layout/fragment_detalle_amigos_estudiante.xml" value="0.1933876811594203" />
+        <entry key="app/src/main/res/layout/fragment_informacion_estudiante.xml" value="0.1933876811594203" />
+        <entry key="app/src/main/res/layout/fragment_informacion_estudiante2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_lista_estudiantes.xml" value="0.11231884057971014" />
+        <entry key="app/src/main/res/layout/frame_layout_activity.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/item_estudiante.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/linear_layout_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/table_layout_activity.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/menu/menu_estudiantes.xml" value="0.2328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

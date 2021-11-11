@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test APP</string>
+    <string name="btn_normal">Botón Normal</string>
+    <string name="encendido">Encendido</string>
+
+    <string name="menu_agregar">Add</string>
+    <string name="menu_mover">Move</string>
+    <string name="menu_cambiar_idioma">Change Language</string>
+
+    <string name="titulo_dialogo">Add new student</string>
+    <string name="codigo_estudiante">ID</string>
+    <string name="nombre_estudiante">Name</string>
+    <string name="fecha_nacimiento">Birthdate</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="agregar_estudiante">Add student</string>
+
+</resources>

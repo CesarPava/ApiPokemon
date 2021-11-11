@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aplicación de prueba</string>
+    <string name="btn_normal">Botón Normal</string>
+    <string name="encendido">Encendido</string>
+
+    <string name="menu_agregar">Agregar</string>
+    <string name="menu_mover">Mover</string>
+    <string name="menu_cambiar_idioma">Cambiar idioma</string>
+
+    <string name="titulo_dialogo">Agregar nuevo estudiante</string>
+    <string name="codigo_estudiante">Código del estudiante</string>
+    <string name="nombre_estudiante">Nombre del estudiante</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="agregar_estudiante">Agregar estudiante</string>
+
+    <string name="texto_modificado">Texto modificado por el activity</string>
+    <string-array name="pokemons">
+        <item>Pikachu</item>
+        <item>Eevee</item>
+        <item>Charmander</item>
+        <item>Snorlax</item>
+        <item>Gengar</item>
+        <item>Mew</item>
+        <item>Chikorita</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lista_amigos">Lista Amigos</string>
+    <string name="informacion">Información</string>
+    <string name="detalle_estudiante">Detalle del estudiante</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+</resources>
